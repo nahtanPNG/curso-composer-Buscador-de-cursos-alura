@@ -36,5 +36,7 @@
     },
     "scripts-descriptions": {
         "check": "Executa as verificações do código. PHAN e PHPCS"
-    }
+    },
+    "license": "MIT",
+    "bin": ["buscar-cursos"]
 }
